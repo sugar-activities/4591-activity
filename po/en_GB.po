@@ -1,0 +1,289 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-24 00:33-0400\n"
+"PO-Revision-Date: 2012-09-28 08:15+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+#: info.py:37
+msgid "Graph Plotter"
+msgstr "Graph Plotter"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+#: info.py:42
+msgid ""
+"Graph Plotter is an easy function plotter made for replace the expensive "
+"calculators."
+msgstr ""
+"Graph Plotter is an easy function plotter made for replace the expensive "
+"calculators."
+
+#: application.py:187
+msgid "Export..."
+msgstr "Export..."
+
+#: application.py:214
+msgid "Open..."
+msgstr "Open..."
+
+#: application.py:235
+msgid "Save..."
+msgstr "Save..."
+
+#: helpcontent.py:25
+msgid "Plotting functions"
+msgstr "Plotting functions"
+
+#: helpcontent.py:26
+msgid "Append a new function."
+msgstr "Append a new function."
+
+#: helpcontent.py:27
+msgid "Remove a function."
+msgstr "Remove a function."
+
+#: helpcontent.py:28
+msgid "Choose the color for the selected function."
+msgstr "Choose the colour for the selected function."
+
+#: helpcontent.py:29
+msgid "Watching the graph"
+msgstr "Watching the graph"
+
+#: helpcontent.py:30
+msgid "Zoom into the graph."
+msgstr "Zoom into the graph."
+
+#: helpcontent.py:31
+msgid "Zoom out from the graph."
+msgstr "Zoom out from the graph."
+
+#: helpcontent.py:32
+msgid "Reset zoom level."
+msgstr "Reset zoom level."
+
+#: helpcontent.py:33
+msgid ""
+"Customize the scale range. \n"
+"Remember to press enter after editing the entries."
+msgstr ""
+"Customize the scale range. \n"
+"Remember to press enter after editing the entries."
+
+#: helpcontent.py:35
+msgid "You can zoom in directly into the graph by selecting an area to expand"
+msgstr "You can zoom in directly into the graph by selecting an area to expand"
+
+#: helpcontent.py:37
+msgid "Hold the Shift key and move the mouse to traverse the graph."
+msgstr "Hold the Shift key and move the mouse to traverse the graph."
+
+#: helpcontent.py:39
+msgid "Do click for switch between the mouse pointing modes."
+msgstr "Do click for switch between the mouse pointing modes."
+
+#: helpcontent.py:40
+msgid "Some settings"
+msgstr "Some settings"
+
+#: helpcontent.py:41
+msgid "Connect the plotted points."
+msgstr "Connect the plotted points."
+
+#: helpcontent.py:42
+msgid "Show the grid."
+msgstr "Show the grid."
+
+#: helpcontent.py:43
+msgid "From algebraic expressions to linear expressions"
+msgstr "From algebraic expressions to linear expressions"
+
+#: helpcontent.py:44
+msgid "Division: "
+msgstr "Division: "
+
+#: helpcontent.py:45
+msgid "Integer division: "
+msgstr "Integer division: "
+
+#: helpcontent.py:46
+msgid "Power: "
+msgstr "Power: "
+
+#: info.py:38
+msgid "Mathematical Function Plotter"
+msgstr "Mathematical Function Plotter"
+
+#: info.py:45 info.py:46
+msgid "http://wiki.sugarlabs.org/go/Activities/Graph_Plotter"
+msgstr "http://wiki.sugarlabs.org/go/Activities/Graph_Plotter"
+
+#: info.py:49
+msgid "Plotted Functions"
+msgstr "Plotted Functions"
+
+#: options.py:79
+msgid "_View"
+msgstr "_View"
+
+#: options.py:83
+msgid "Show _grid"
+msgstr "Show _grid"
+
+#: options.py:88
+msgid "Connect _points"
+msgstr "Connect _points"
+
+#: options.py:123
+msgid "R_ange"
+msgstr "R_ange"
+
+#: options.py:127
+msgid "Scale range"
+msgstr "Scale range"
+
+#: options.py:131
+msgid "X min"
+msgstr "X min"
+
+#: options.py:140
+msgid "X max"
+msgstr "X max"
+
+#: options.py:150
+msgid "Y min"
+msgstr "Y min"
+
+#: options.py:159
+msgid "Y max"
+msgstr "Y max"
+
+#: options.py:183
+msgid "_Scale"
+msgstr "_Scale"
+
+#: options.py:185
+msgid "_Decimal"
+msgstr "_Decimal"
+
+#: options.py:188
+msgid "Decimal scale"
+msgstr "Decimal scale"
+
+#: options.py:192
+msgid "_Radian"
+msgstr "_Radian"
+
+#: options.py:196
+msgid "Radian scale"
+msgstr "Radian scale"
+
+#: options.py:200
+msgid "_Custom"
+msgstr "_Custom"
+
+#: options.py:206
+msgid "Custom scale"
+msgstr "Custom scale"
+
+#: options.py:234
+msgid "X scale"
+msgstr "X scale"
+
+#: options.py:236
+msgid "Y scale"
+msgstr "Y scale"
+
+#: options.py:267
+msgid "_image"
+msgstr "_image"
+
+#: options.py:270
+msgid "Images"
+msgstr "Images"
+
+#: options.py:273
+msgid "F_unction"
+msgstr "F_unction"
+
+#: options.py:275
+msgid "Append a new function"
+msgstr "Append a new function"
+
+#: options.py:280
+msgid "Remove the selected function"
+msgstr "Remove the selected function"
+
+#: options.py:285
+msgid "Plot color"
+msgstr "Plot colour"
+
+#: options.py:312
+msgid "_Evaluate"
+msgstr "_Evaluate"
+
+#~ msgid "_File"
+#~ msgstr "_File"
+
+#, python-format
+#~ msgid "Export as %s"
+#~ msgstr "Export as %s"
+
+#~ msgid "Contents"
+#~ msgstr "Contents"
+
+#~ msgid "Help"
+#~ msgstr "Help"
+
+#~ msgid "Fullscreen"
+#~ msgstr "Fullscreen"
+
+#~ msgid "Zoom in"
+#~ msgstr "Zoom in"
+
+#~ msgid "Zoom out"
+#~ msgstr "Zoom out"
+
+#~ msgid "Reset zoom"
+#~ msgstr "Reset zoom"
+
+#~ msgid "Save as image"
+#~ msgstr "Save as image"
+
+#~ msgid "Multiplication: "
+#~ msgstr "Multiplication: "
+
+#~ msgid "Lybniz Graph Plotter"
+#~ msgstr "Lybniz Graph Plotter"
+
+#~ msgid "Graph"
+#~ msgstr "Graph"
+
+#~ msgid "Plot"
+#~ msgstr "Plot"
+
+#~ msgid "Zoom Reset"
+#~ msgstr "Zoom Reset"
+
+#~ msgid "Decimal Scale Style"
+#~ msgstr "Decimal Scale Style"
+
+#~ msgid "Radians Scale Style"
+#~ msgstr "Radians Scale Style"
+
+#~ msgid "Custom Scale Style"
+#~ msgstr "Custom Scale Style"

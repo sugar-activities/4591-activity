@@ -1,0 +1,12 @@
+8
+
+* Commits from Sugar Labs translation system by users cjl and apustaq (Pootle deamon)
+* Push L10n Updates (Pootle deamon)
+* Update Sweetener
+** Auto-generating bundles (Daniel Francis)
+** Loaded trought git-submodule
+* Vocabulary: f(x) instead of y (Daniel Francis)
+* FEATURE: Scroll graph from keyboard and XO game keys. (Daniel Francis)
+* Added summary (Daniel Francis)
+* Don't try to scale if the selection looks as a line. (Alan Aguiar, Daniel Francis)
+* Return to previous panel separator position when unfullscreen. (Alan Aguiar, Daniel Francis)

@@ -1,0 +1,11 @@
+[Activity]
+name = Graph Plotter
+summary = Plot mathematical functions and study maths.
+activity_version = 9
+show_launcher = 1
+bundle_id = org.sugarlabs.GraphPlotter
+exec = sugar-activity activity.Activity -s
+icon = activity-graph-plotter
+license = GPLv3
+mime_types = application/x-graph-plotter
+

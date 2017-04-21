@@ -1,0 +1,245 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-24 00:33-0400\n"
+"PO-Revision-Date: 2012-08-15 10:52+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ne\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+#: info.py:37
+msgid "Graph Plotter"
+msgstr ""
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+#: info.py:42
+msgid ""
+"Graph Plotter is an easy function plotter made for replace the expensive "
+"calculators."
+msgstr ""
+
+#: application.py:187
+msgid "Export..."
+msgstr ""
+
+#: application.py:214
+msgid "Open..."
+msgstr ""
+
+#: application.py:235
+msgid "Save..."
+msgstr ""
+
+#: helpcontent.py:25
+msgid "Plotting functions"
+msgstr ""
+
+#: helpcontent.py:26
+msgid "Append a new function."
+msgstr ""
+
+#: helpcontent.py:27
+msgid "Remove a function."
+msgstr ""
+
+#: helpcontent.py:28
+msgid "Choose the color for the selected function."
+msgstr ""
+
+#: helpcontent.py:29
+msgid "Watching the graph"
+msgstr ""
+
+#: helpcontent.py:30
+msgid "Zoom into the graph."
+msgstr ""
+
+#: helpcontent.py:31
+msgid "Zoom out from the graph."
+msgstr ""
+
+#: helpcontent.py:32
+msgid "Reset zoom level."
+msgstr ""
+
+#: helpcontent.py:33
+msgid ""
+"Customize the scale range. \n"
+"Remember to press enter after editing the entries."
+msgstr ""
+
+#: helpcontent.py:35
+msgid "You can zoom in directly into the graph by selecting an area to expand"
+msgstr ""
+
+#: helpcontent.py:37
+msgid "Hold the Shift key and move the mouse to traverse the graph."
+msgstr ""
+
+#: helpcontent.py:39
+msgid "Do click for switch between the mouse pointing modes."
+msgstr ""
+
+#: helpcontent.py:40
+msgid "Some settings"
+msgstr ""
+
+#: helpcontent.py:41
+msgid "Connect the plotted points."
+msgstr ""
+
+#: helpcontent.py:42
+msgid "Show the grid."
+msgstr ""
+
+#: helpcontent.py:43
+msgid "From algebraic expressions to linear expressions"
+msgstr ""
+
+#: helpcontent.py:44
+msgid "Division: "
+msgstr ""
+
+#: helpcontent.py:45
+msgid "Integer division: "
+msgstr ""
+
+#: helpcontent.py:46
+msgid "Power: "
+msgstr ""
+
+#: info.py:38
+msgid "Mathematical Function Plotter"
+msgstr ""
+
+#: info.py:45 info.py:46
+msgid "http://wiki.sugarlabs.org/go/Activities/Graph_Plotter"
+msgstr ""
+
+#: info.py:49
+msgid "Plotted Functions"
+msgstr ""
+
+#: options.py:79
+msgid "_View"
+msgstr ""
+
+#: options.py:83
+msgid "Show _grid"
+msgstr ""
+
+#: options.py:88
+msgid "Connect _points"
+msgstr ""
+
+#: options.py:123
+msgid "R_ange"
+msgstr ""
+
+#: options.py:127
+msgid "Scale range"
+msgstr ""
+
+#: options.py:131
+msgid "X min"
+msgstr ""
+
+#: options.py:140
+msgid "X max"
+msgstr ""
+
+#: options.py:150
+msgid "Y min"
+msgstr ""
+
+#: options.py:159
+msgid "Y max"
+msgstr ""
+
+#: options.py:183
+msgid "_Scale"
+msgstr ""
+
+#: options.py:185
+msgid "_Decimal"
+msgstr ""
+
+#: options.py:188
+msgid "Decimal scale"
+msgstr ""
+
+#: options.py:192
+msgid "_Radian"
+msgstr ""
+
+#: options.py:196
+msgid "Radian scale"
+msgstr ""
+
+#: options.py:200
+msgid "_Custom"
+msgstr ""
+
+#: options.py:206
+msgid "Custom scale"
+msgstr ""
+
+#: options.py:234
+msgid "X scale"
+msgstr ""
+
+#: options.py:236
+msgid "Y scale"
+msgstr ""
+
+#: options.py:267
+msgid "_image"
+msgstr ""
+
+#: options.py:270
+msgid "Images"
+msgstr ""
+
+#: options.py:273
+msgid "F_unction"
+msgstr ""
+
+#: options.py:275
+msgid "Append a new function"
+msgstr ""
+
+#: options.py:280
+msgid "Remove the selected function"
+msgstr ""
+
+#: options.py:285
+msgid "Plot color"
+msgstr ""
+
+#: options.py:312
+msgid "_Evaluate"
+msgstr ""
+
+#~ msgid "Help"
+#~ msgstr "सहयोग"
+
+#~ msgid "Fullscreen"
+#~ msgstr "पुरै पर्दा"
+
+#~ msgid "Zoom in"
+#~ msgstr "ठूलो बनाऊ"
+
+#~ msgid "Zoom out"
+#~ msgstr "सानो बनाऊ"

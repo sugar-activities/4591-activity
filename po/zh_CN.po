@@ -1,0 +1,291 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-02 10:04-0400\n"
+"PO-Revision-Date: 2012-11-10 03:18+0200\n"
+"Last-Translator: lite <litekok@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+#: info.py:37
+msgid "Graph Plotter"
+msgstr "绘图机"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+#: info.py:42
+msgid "Plot mathematical functions and study maths."
+msgstr "绘制数学函数并学习数学。"
+
+#: application.py:192
+msgid "Export..."
+msgstr "导出..."
+
+#: application.py:219
+msgid "Open..."
+msgstr "打开..."
+
+#: application.py:240
+msgid "Save..."
+msgstr "保存..."
+
+#: helpcontent.py:25
+msgid "Plotting functions"
+msgstr "绘图功能"
+
+#: helpcontent.py:26
+msgid "Append a new function."
+msgstr "追加新功能。"
+
+#: helpcontent.py:27
+msgid "Remove a function."
+msgstr "删除一个功能。"
+
+#: helpcontent.py:28
+msgid "Choose the color for the selected function."
+msgstr "为选中的功能选择颜色。"
+
+#: helpcontent.py:29
+msgid "Watching the graph"
+msgstr "查看图形"
+
+#: helpcontent.py:30
+msgid "Zoom into the graph."
+msgstr "放大图形。"
+
+#: helpcontent.py:31
+msgid "Zoom out from the graph."
+msgstr "缩小图形。"
+
+#: helpcontent.py:32
+msgid "Reset zoom level."
+msgstr "重置缩放级别。"
+
+#: helpcontent.py:33
+msgid ""
+"Customize the scale range. \n"
+"Remember to press enter after editing the entries."
+msgstr ""
+"自定义刻度范围。\n"
+"请记住编辑条目后按回车键。"
+
+#: helpcontent.py:35
+msgid "You can zoom in directly into the graph by selecting an area to expand"
+msgstr "你可以选择要将图直接放大到的区域"
+
+#: helpcontent.py:37
+msgid "Hold the Shift key and move the mouse to traverse the graph."
+msgstr "按住Shift键并移动鼠标来遍历图。"
+
+#: helpcontent.py:39
+msgid "Do click for switch between the mouse pointing modes."
+msgstr "点击来切换鼠标模式。"
+
+#: helpcontent.py:40
+msgid "Some settings"
+msgstr "一些设置"
+
+#: helpcontent.py:41
+msgid "Connect the plotted points."
+msgstr "连接已绘制的点。"
+
+#: helpcontent.py:42
+msgid "Show the grid."
+msgstr "显示网格。"
+
+#: helpcontent.py:43
+msgid "From algebraic expressions to linear expressions"
+msgstr "代数表达式 到 线性表达式"
+
+#: helpcontent.py:44
+msgid "Division: "
+msgstr "除法："
+
+#: helpcontent.py:45
+msgid "Integer division: "
+msgstr "整数除法："
+
+#: helpcontent.py:46
+msgid "Power: "
+msgstr "乘方："
+
+#: info.py:38
+msgid "Mathematical Function Plotter"
+msgstr "数学功能绘图"
+
+#. TRANS: The link to the translated page if any, if not leave the string as it is
+#: info.py:45 info.py:46
+msgid "http://wiki.sugarlabs.org/go/Activities/Graph_Plotter"
+msgstr "http://wiki.sugarlabs.org/go/Activities/Graph_Plotter"
+
+#: info.py:49
+msgid "Plotted Functions"
+msgstr "绘图功能"
+
+#: options.py:79
+msgid "_View"
+msgstr "查看(_V)"
+
+#: options.py:83
+msgid "Show _grid"
+msgstr "显示网格(_g)"
+
+#: options.py:88
+msgid "Connect _points"
+msgstr "连接点(_p)"
+
+#: options.py:123
+msgid "R_ange"
+msgstr "范围(_a)"
+
+#: options.py:127
+msgid "Scale range"
+msgstr "刻度范围"
+
+#: options.py:131
+msgid "X min"
+msgstr "X最小值"
+
+#: options.py:140
+msgid "X max"
+msgstr "X最大值"
+
+#: options.py:150
+msgid "Y min"
+msgstr "Y最小值"
+
+#: options.py:159
+msgid "Y max"
+msgstr "Y最大值"
+
+#: options.py:183
+msgid "_Scale"
+msgstr "刻度(_S)"
+
+#: options.py:185
+msgid "_Decimal"
+msgstr "数字(_D)"
+
+#: options.py:188
+msgid "Decimal scale"
+msgstr "数字刻度"
+
+#: options.py:192
+msgid "_Radian"
+msgstr "弧度(_R)"
+
+#: options.py:196
+msgid "Radian scale"
+msgstr "弧度刻度"
+
+#: options.py:200
+msgid "_Custom"
+msgstr "自定义(_C)"
+
+#: options.py:206
+msgid "Custom scale"
+msgstr "自定义刻度"
+
+#: options.py:234
+msgid "X scale"
+msgstr "X比例"
+
+#: options.py:236
+msgid "Y scale"
+msgstr "Y比例"
+
+#: options.py:267
+msgid "_image"
+msgstr "图像(_i)"
+
+#: options.py:270
+msgid "Images"
+msgstr "图像"
+
+#: options.py:273
+msgid "F_unction"
+msgstr "功能(_u)"
+
+#: options.py:275
+msgid "Append a new function"
+msgstr "追加新功能"
+
+#: options.py:280
+msgid "Remove the selected function"
+msgstr "删除所选的功能"
+
+#: options.py:285
+msgid "Plot color"
+msgstr "绘图颜色"
+
+#: options.py:312
+msgid "_Evaluate"
+msgstr "评估(_E)"
+
+#~ msgid ""
+#~ "Graph Plotter is an easy function plotter made for replace the expensive "
+#~ "calculators."
+#~ msgstr "绘图机是代替价格昂贵的计算器的一个简单功能的绘图机。"
+
+#~ msgid "_File"
+#~ msgstr "文件(_F)"
+
+#, python-format
+#~ msgid "Export as %s"
+#~ msgstr "导出为 %s"
+
+#~ msgid "Contents"
+#~ msgstr "内容"
+
+#~ msgid "Help"
+#~ msgstr "帮助"
+
+#~ msgid "Fullscreen"
+#~ msgstr "全屏"
+
+#~ msgid "Zoom in"
+#~ msgstr "放大"
+
+#~ msgid "Zoom out"
+#~ msgstr "缩小"
+
+#~ msgid "Reset zoom"
+#~ msgstr "重置变焦"
+
+#~ msgid "Save as image"
+#~ msgstr "另存为图片"
+
+#~ msgid "Multiplication: "
+#~ msgstr "乘法："
+
+#~ msgid "Lybniz Graph Plotter"
+#~ msgstr "莱布尼兹绘图仪"
+
+#~ msgid "Graph"
+#~ msgstr "图形"
+
+#~ msgid "Plot"
+#~ msgstr "绘图"
+
+#~ msgid "Zoom Reset"
+#~ msgstr "变焦复位"
+
+#~ msgid "Decimal Scale Style"
+#~ msgstr "小数刻度样式"
+
+#~ msgid "Radians Scale Style"
+#~ msgstr "弧度刻度样式"
+
+#~ msgid "Custom Scale Style"
+#~ msgstr "自定义刻度样式"
